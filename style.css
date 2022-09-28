@@ -1,0 +1,30 @@
+* {
+    /*border: 1px solid red;*/
+}
+
+#navbar {
+    background-color: black;
+    color: whitesmoke;
+}
+
+#banner {
+    background-color: black;
+    color: whitesmoke;
+}
+
+#about {
+    color: black;
+    background-color: rgb(230, 223, 190);    
+}
+ #footer {
+    background-color: white;
+    padding: 20px;
+ }
+
+ img {
+    margin: 10px;
+ }
+
+ #top {
+    padding-top: 20px;
+ }
