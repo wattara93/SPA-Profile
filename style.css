@@ -2,9 +2,30 @@
     /*border: 1px solid red;*/
 }
 
+section {
+    padding: 30px;
+}
+
+div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    margin: 25px;
+    padding-bottom: 30px;
+    text-decoration: underline;
+}
+
 #navbar {
     background-color: black;
     color: whitesmoke;
+}
+
+.navbar-brand {
+    color: rgb(151, 150, 150);
+    padding-left: 30%;
+    text-decoration: underline;
 }
 
 #banner {
@@ -17,9 +38,22 @@
     background-color: rgb(230, 223, 190);    
 }
 
+#work-col1 img:hover {
+    transform: scale(1.3);
+}
+
+#projects {
+    background-color: black;
+    color: white;
+}
+
  #footer {
-    background-color: white;
     padding: 20px;
+    background-color: rgb(230, 223, 190);
+ }
+
+ #footer img:hover {
+    transform: scale(1.5);
  }
 
  img {
